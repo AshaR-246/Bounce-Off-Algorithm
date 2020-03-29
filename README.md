@@ -1,2 +1,2 @@
-# Bounce-Off-Algorithm
-Written in JavaScript.Bouncy objects
+# p5.play-boilerplate
+Boiler plate for p5.play
